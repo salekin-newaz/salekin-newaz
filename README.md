@@ -12,7 +12,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@salekinnewaz0](https://medium.com/@salekinnewaz0)
 
-- 💬 Ask me about **Selenium, Cypress, k6, Javascript**
+- 💬 Ask me about **Selenium, Cypress, k6, API Testing, SQL**
+- Test Case Writing, API Testing, Load Testing), Automation Testing(Selenium, MobileApp Testing, API Automation,CuCumber), UML,SQL.
 
 - 📫 How to reach me **salekinnewaz0@gmail.com**
 
