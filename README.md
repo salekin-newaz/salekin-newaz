@@ -2,19 +2,19 @@
 <h3 align="center">A passionate Software QA Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b8/33/78/b83378fbaf9f0ea218f9a11558b03aa4.gif")
   
-- 🔭 I’m currently working on **Brain Station 23 As an Associate SQA Engineer**
+🔭 I’m currently working on **Brain Station 23 As an Associate SQA Engineer**
 
-- 🌱 I’m currently learning **Selenium, Cypress, k6, Playwright**
+🌱 I’m currently learning **Selenium, Cypress, k6, Playwright**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+👯 I’m looking to collaborate on **Open Source Project**
 
-- 📝 I regularly write articles on [https://medium.com/@salekinnewaz0](https://medium.com/@salekinnewaz0)
+📝 I regularly write articles on [https://medium.com/@salekinnewaz0](https://medium.com/@salekinnewaz0)
 
-- 💬 Ask me about **Selenium, Cypress, k6, Javascript**
+💬 Ask me about **Selenium, Cypress, k6, Javascript**
 
-- 📫 How to reach me **salekinnewaz0@gmail.com**
+📫 How to reach me **salekinnewaz0@gmail.com**
 
-- 📄 Know about my experiences [https://bd.linkedin.com/salekin-newaz](https://bd.linkedin.com/salekin-newaz)
+📄 Know about my experiences [https://bd.linkedin.com/salekin-newaz](https://bd.linkedin.com/salekin-newaz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
